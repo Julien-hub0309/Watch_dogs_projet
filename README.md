@@ -51,4 +51,121 @@ cd Watch_dogs_projet
 
 python3 main.py 
 
+## Application : 
+
+╭────────────────────────────────────────╮
+
+│ 🦊 Justradamus Osint Tool              │
+
+│ Intelligence & Investigation Framework │
+
+╰────────────────────────────────────────╯
+
+1. 📱 Téléphone
+
+2. 🌐 Web/IP
+
+3. 📧 Email
+
+4. 👤 Pseudo/Username
+
+0. Quitter
+
+➤ Choix : 1
+
+➤ Cible (Téléphone/IP/Email/Pseudo) : 33629292929
+
+➤ Choix : 2
+
+➤ Cible (Téléphone/IP/Email/Pseudo) : gog.com
+
+[🌐] Analyse d'infrastructure pour : gog.com
+
+╭───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+
+│       🔍 Infrastructure Web                                                                                                                                                                                   │
+
+│  Donnée         Information                                                                                                                                                                                   │
+
+│  IP             151.101.65.55                                                                                                                                                                                 │
+
+│  Localisation   Montreal, Canada                                                                                                                                                                              │
+
+│  ISP            Fastly, Inc.                                                                                                                                                                                  │
+
+│  Organisation   Fastly, Inc.                                                                                                                                                                                  │
+
+│  Ports_Ouverts  80, 443                                                                                                                                                                                       │
+
+╰───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+➤ Choix : 3
+
+➤ Cible (Téléphone/IP/Email/Pseudo) : justradamus@gmail.com
+
+╭───────────────────────────────────────────────╮
+
+│ 🔍 OSINT EMAIL SCANNER                        │
+
+│ Cible: justradamus@gmail.com                  │
+
+│ Utilisateur: justradamus | Domaine: gmail.com │
+
+╰───────────────────────────────────────────────╯
+
+[★ FUITES DE DONNÉES ★]
+
+[✗] Have I Been Pwned
+
+[✓] LeakCheck 0 fuites
+
+[✗] Psbdmp.ws
+
+[✗] BreachDirectory
+
+
+
+[★ RÉPUTATION & VÉRIFICATIONS ★]
+
+[✗] EmailRep
+
+
+[✓] Gravatar https://www.gravatar.com/9d0f13ff72360ff3b0f108d7cef8f6f5
+
+[✓] DNS/MX Serveurs: alt1.gmail-smtp-in.l.google.com., alt2.gmail-smtp-in.l.google.com.
+
+
+[★ RÉSEAUX SOCIAUX & TECH ★]
+
+[✓] Twitter/X https://nitter.net/justradamus
+
+[✓] Reddit https://www.reddit.com/user/justradamus/about.json
+
+[✓] GitHub https://github.com/justradamus (0 repos)
+
+[✗] Medium
+
+[✗] Steam
+
+[★ 🔞 PLATEFORMES ADULTES ★]
+
+[✗] OnlyFans
+
+[✓] Fansly https://fansly.com/justradamus
+
+[✓] Chaturbate https://chaturbate.com/justradamus/
+
+[✓] ManyVids https://www.manyvids.com/Profile/justradamus/
+
+╭─────────────────────────────────────────────────────────────────────────────────────────────────── RÉSUMÉ ────────────────────────────────────────────────────────────────────────────────────────────────────╮
+
+│  ✓ Trouvé      9                                                                                                                                                                                              │
+
+│  ✗ Non trouvé  7                                                                                                                                                                                              │
+
+│  ! Erreurs     0                                                                                                                                                                                              │
+
+│  💾 Rapport    Justradamus_Reports/Email_Intel_justradamus@gmail.com.json                                                                                                                                     │
+
+╰───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
 

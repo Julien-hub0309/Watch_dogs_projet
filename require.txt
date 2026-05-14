@@ -1,25 +1,23 @@
-# HTTP & Réseau
+# --- Interface Graphique & Terminal ---
+rich
+
+# --- HTTP, Web & Réseau ---
 requests
 urllib3
 dnspython
+scapy
 
-# Parsing HTML
+# --- Scraping & Parsing HTML ---
 beautifulsoup4
 
-# Données système
-psutil
-
-# Numéros de téléphone
-phonenumbers
-
-# Images & Métadonnées
+# --- Images, Fichiers & Métadonnées ---
 Pillow
 hachoir
+pytsk3
 
-# IA / Détection de texte généré
+# --- Téléphonie ---
+phonenumbers
+
+# --- IA / Deep Learning ---
 torch
 transformers
-
-# (stdlib, pas besoin d'installer)
-# socket, hashlib, math, secrets, string, platform,
-# subprocess, os, re, base64, json, itertools

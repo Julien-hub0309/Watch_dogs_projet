@@ -32,11 +32,7 @@ git clone https://github.com/Julien-hub0309/Watch_dogs_projet.git
 
 cd Watch_dogs_projet
 
-# Pour l'interface graphique du terminal
-
 pip install rich
-
-# Pour le réseau, le web et les requêtes HTTP
 
 pip install requests
 
@@ -46,29 +42,33 @@ pip install dnspython
 
 pip install scapy
 
-# Pour le scraping de données HTML
-
 pip install beautifulsoup4
-
-# Pour la gestion des images et des métadonnées
 
 pip install Pillow
 
 pip install hachoir
 
-# Pour la forensique (systèmes de fichiers)
-
 pip install pytsk3
 
-# Pour la validation et l'analyse des numéros de téléphone
-
 pip install phonenumbers
-
-# Pour l'Intelligence Artificielle (Modèles de langage GPT-2)
 
 pip install torch
 
 pip install transformers
+
+pip install transformers numpy
+
+pip install torch
+
+pip install hachoir
+
+pip install Pillow
+
+pip install PIL
+
+pip install psutil
+
+pip install scapy
 
 ### Termux : 
 
@@ -82,11 +82,7 @@ git clone https://github.com/Julien-hub0309/Watch_dogs_projet.git
 
 cd Watch_dogs_projet
 
-# Pour l'interface graphique du terminal
-
 pip install rich
-
-# Pour le réseau, le web et les requêtes HTTP
 
 pip install requests
 
@@ -96,39 +92,83 @@ pip install dnspython
 
 pip install scapy
 
-# Pour le scraping de données HTML
-
 pip install beautifulsoup4
-
-# Pour la gestion des images et des métadonnées
 
 pip install Pillow
 
 pip install hachoir
 
-# Pour la forensique (systèmes de fichiers)
-
 pip install pytsk3
 
-# Pour la validation et l'analyse des numéros de téléphone
-
 pip install phonenumbers
-
-# Pour l'Intelligence Artificielle (Modèles de langage GPT-2)
 
 pip install torch
 
 pip install transformers
 
+pip install transformers numpy
+
+pip install torch
+
+pip install hachoir
+
+pip install Pillow
+
+pip install PIL
+
+pip install psutil
+
+pip install scapy
+
 
 ### Windows : 
+
+git clone https://github.com/Julien-hub0309/Watch_dogs_projet.git
+
+cd Watch_dogs_projet
+
+pip install rich
+
+pip install requests
+
+pip install urllib3
+
+pip install dnspython
+
+pip install scapy
+
+pip install beautifulsoup4
+
+pip install Pillow
+
+pip install hachoir
+
+pip install pytsk3
+
+pip install phonenumbers
+
+pip install torch
+
+pip install transformers
+
+pip install transformers numpy
+
+pip install torch
+
+pip install hachoir
+
+pip install Pillow
+
+pip install PIL
+
+pip install psutil
+
+pip install scapy
 
 [notice] A new release of pip is available: 25.0.1 -> 26.1.1
 [notice] To update, run: C:\Users\...\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\python.exe -m pip install --upgrade pip
 
 ## Utilisation : 
-
-cd Watch_dogs_projet
 
 python3 main.py 
 
